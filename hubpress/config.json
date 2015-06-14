@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ashmckenzie",
-    "repositoryName": "ashmckenzie.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ashmckenzie","repositoryName":"ashmckenzie.github.io","branch":"master"},"site":{"title":"The bare minimum","url":"https://ashmckenzie.github.io"},"socialnetwork":{"email":"ash@the-rebellion.net","twitter":"ashmckenzie","github":"ashmckenzie"},"theme":{"name":"Casper","url":"//ashmckenzie.github.io/themes/Casper"}}
